@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="height">height(cm)</string>
+    <string name="weight">weight(kg)</string>
+    <string name="bmi_btn">计算BMI</string>
+    <string name="bmi_result">你的BMI值是</string>
+</resources>
